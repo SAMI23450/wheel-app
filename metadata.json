@@ -1,0 +1,6 @@
+{
+  "name": "Wheel App",
+  "description": "A polished mobile-first application containing a spinning custom Wheel of Names and a 3D-style Coin Flipper with local-first database persistence and user profile options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
